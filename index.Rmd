@@ -1,0 +1,17 @@
+---
+title: "Caitlin Volante"
+image: "cait.pic.jpg"
+links:
+  - label: Twitter
+    url: "https://twitter.com/CaitlinVolante"
+  - label: GitHub
+    url: "https://github.com/CaitlinVolante"
+  - label: Email
+    url: "cvolante@fsu.edu"
+site: distill::distill_website
+output:
+  postcards::jolla
+---
+ 
+I am a fourth year senior at Florida State University getting my Bachelors in Behavioral Neuroscience. I currently work in Dr. Michael Kaschak's Language, Memory, and Learning Lab studying High Rising Terminals interpretation, and in Dr. Brad Schmidt ABHC Lab where we use EEG as a way to measure PTSD and design new interventions. 
+  

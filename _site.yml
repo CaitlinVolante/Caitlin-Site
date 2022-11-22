@@ -1,0 +1,15 @@
+name: "."
+title: "Caitlin Volante"
+theme: postcards.css
+description: |
+  Caitlin Volante
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "CV"
+      href: sitecv.pdf
+output: distill::distill_article

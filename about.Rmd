@@ -1,0 +1,32 @@
+---
+title: "About"
+description: |
+  Projects and Aspirations
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+# Professional Goals
+
+I hope to be admitted to a graduate school program for Fall 2023 studying varying aspects of language including prosody, aphasia, individual differences, and language processing and comprehension. I am interested in both typical and atypical populations. 
+
+# Honors Thesis
+ _High Rising Terminals as a Function of Gender, Race, and Social Status_
+
+High Rising Terminals (HRTs) are a speech feature where there is a rising intonation contour at the end of an utterance where a falling intonation contour would normally be used. Commonly referred to as “uptalk” or “upspeak,” they are lumped together with other negative politeness devices, and proposed to be used as a way for women to make themselves seem less imposing. As a result of this, HRTs are colloquially seen as a sign of uncertainty in female speakers. Despite this common notion, HRTs are used for a range of purposes in conversation. They may signal a topic change, or be used as a way to gauge the listener's responsiveness or understanding. This project investigated the interplay between race, gender, and social status in the interpretation of HRTs.
+
+Volante, C. (2022). High Rising Terminals as a Function of Gender, Race, and Social Status. Retrieved from https://purl.lib.fsu.edu/diginole/honors_thesis_submission-ee987f19-7d37-4641-aeb0-e7f9ed928339
+
+
+*This work has been presented at:*
+
+- Women in Math, Science, and Engineering Spring Research Symposium (2021, 2022)
+
+- Florida State University Undergraduate Research Symposium (2022)
+
+- The Psychonomic Society 63rd Annual Meeting (2022)
+
+
