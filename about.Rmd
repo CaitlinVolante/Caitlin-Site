@@ -11,6 +11,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Professional Goals
 drhgber
+
+drigertiug
+
 I hope to be admitted to a graduate school program for Fall 2023 studying varying aspects of language including prosody, aphasia, individual differences, and language processing and comprehension. I am interested in both typical and atypical populations. 
 
 # Honors Thesis
