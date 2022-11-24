@@ -13,6 +13,6 @@ output:
   postcards::jolla
 ---
  
-I am a fourth year senior at Florida State University getting my Bachelors in Behavioral Neuroscience. I currently work in Dr. Michael Kaschak's Language, Memory, and Learning Lab studying High Rising Terminals interpretation, and in Dr. Brad Schmidt ABHC Lab where we use EEG as a way to measure PTSD and design new interventions. 
+I am a fourth year senior at Florida State University getting my Bachelors in Behavioral Neuroscience. I currently work in Dr. Michael Kaschak's Language, Memory, and Learning Lab studying High Rising Terminals interpretation, and in Dr. Brad Schmidt's ABHC Lab where we use EEG as a way to measure PTSD and design new interventions. 
   
-This website was made using the `distill` and `postcards` packages in R. It is currently being hosted on **Github** and **Netlify**
+This website was made using the `distill` and `postcards` packages in R. It is currently being hosted on **Github** and **Netlify**.
